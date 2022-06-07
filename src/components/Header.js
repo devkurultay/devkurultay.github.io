@@ -103,10 +103,6 @@ const Header = ({ location, isDarkThemeActive, toggleActiveTheme }) => (
                   alt={'logo'}
                 />
               </Link>
-              <div
-                className={'headerTitle displayInline'}
-                dangerouslySetInnerHTML={{ __html: headerTitle }}
-              />
             </div>
             {config.header.social ? (
               <ul

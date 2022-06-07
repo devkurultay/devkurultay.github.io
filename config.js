@@ -13,13 +13,7 @@ const config = {
     githubUrl: 'https://github.com/devkurultay/devkurultay.github.io',
     helpUrl: '',
     tweetText: '',
-    social: `<li>
-		    <a href="https://t.me/devkurultay" target="_blank" rel="noopener">
-		      <div class="twitterBtn">
-		        <img src='https://graphql-engine-cdn.hasura.io/learn-hasura/assets/homepage/twitter-brands-block.svg' alt={'Telegram'}/>
-		      </div>
-		    </a>
-		  </li>`,
+    social: null,
     links: [{ text: '', link: '' }],
     search: {
       enabled: false,
