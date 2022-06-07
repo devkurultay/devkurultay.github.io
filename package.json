@@ -75,6 +75,7 @@
     "eslint-plugin-prettier": "^3.4.0",
     "eslint-plugin-react": "^7.23.2",
     "gatsby-plugin-remove-trailing-slashes": "^3.4.0",
+    "gh-pages": "^4.0.0",
     "prettier": "^2.2.1",
     "prism-react-renderer": "^1.2.0"
   }
