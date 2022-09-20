@@ -1,1 +1,1 @@
-{"data":{"allMdx":{"edges":[{"node":{"fields":{"slug":"/","title":"Башкы бет"}}},{"node":{"fields":{"slug":"/youtube","title":"Ютуб каналдар"}}},{"node":{"fields":{"slug":"/chats","title":"Telegram/Discord каналдар"}}}]}}}
+{"data":{"allMdx":{"edges":[{"node":{"fields":{"slug":"/chats","title":"Telegram/Discord каналдар"}}},{"node":{"fields":{"slug":"/youtube","title":"Ютуб каналдар"}}},{"node":{"fields":{"slug":"/","title":"Башкы бет"}}}]}}}
