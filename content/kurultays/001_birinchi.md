@@ -4,6 +4,8 @@ title: "Биринчи мини курултай"
 
 ## OpenSSH менен эмне кылса болот
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d8NfX6QwSdY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ### Сырсөз аркылуу аутентификациядан өтүү
 
     $ ssh user@example.com
