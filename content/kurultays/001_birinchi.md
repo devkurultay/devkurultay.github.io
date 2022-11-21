@@ -98,3 +98,21 @@ FTP клиенттер sftp протоколун колдойт. Мисалы, F
 
     Host example.com
       ForwardAgent yes
+
+### Алиастар
+
+Эгер хостнейм, юзернейм узун болсо, улам-улам аларды тере бербей, аларды алиас аркылуу кыскартса болот.
+Мисалы, chokcholoibaatyr@tegirmenchilerdikinensinerbi.com деген юзернейм жана хостнейм болсун. Анда:
+
+    Host tegirmen
+      User chokcholoibaatyr
+      HostName tegirmenchilerdikinensinerbi.com
+
+деп `.ssh/config` файлга жазып койсок, `ssh tegirmen` алиас аркылуу серверге кире алабыз.
+Ошондой эле, порт же ачкыч демейкидей болбосо, аларды да алиастын артына жашыртып койсо болот.
+
+    Host tegirmen
+      User chokcholoibaatyr
+      HostName tegirmenchilerdikinensinerbi.com
+      Port 2222
+      IdentityFile ~/.ssh/id_rsa_tegirmenchi
