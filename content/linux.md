@@ -2,8 +2,7 @@
 title: 'Linux/Unix'
 ---
 
-# Биринчи жолугушуу
+# Linux/Unix
 
-OpenSSH жөнүндө
-
-
+* [OpenSSH](/linux/001_openssh)
+* [ICMP](/linux/002_icmp)
