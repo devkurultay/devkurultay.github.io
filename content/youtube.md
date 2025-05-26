@@ -14,3 +14,4 @@ metaDescription: "Кыргыз тилинде айти боюнча ютуб к�
 - [Turat Alybaev](https://www.youtube.com/c/TuratAlybaev/featured)
 - [Mancho Devs](https://www.youtube.com/@ManchoDevs)
 - [Сонун Мектеп Java курс](https://www.youtube.com/playlist?list=PL4EGQcivPq1mh_C5ZcKAJsiLLw-Ouw4py)
+- [A & K Academy](https://youtube.com/channel/UCWgkPuGhHVek65-Obi6hGHQ) 
